@@ -14,6 +14,8 @@ const ID_MAX = 100;
 const AVATAR_NUM_MIN = 1;
 const AVATAR_NUM_MAX = 6;
 
+
+
 const photoDescription = 'Фотография пользователя';
 
 const names = [
@@ -63,3 +65,5 @@ const createPhoto = () => {
 };
 
 export {createPhoto};
+
+
